@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://parksnearme.pages.dev/sitemap.xml
